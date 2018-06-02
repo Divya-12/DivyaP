@@ -1,0 +1,3 @@
+x=["apple","mango","orange"]
+print(x.__len__())
+

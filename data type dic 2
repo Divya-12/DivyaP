@@ -1,0 +1,2 @@
+x=[[kapil,bcom],[pawan,bcom],[divya,be],[sunil,btech]]
+print(x[2][0])

@@ -1,0 +1,7 @@
+x=input("Enter name")
+y=""
+for i in x:
+    y =i+y
+print(y)
+z=str(apple)
+print(z.upper())

@@ -1,0 +1,2 @@
+x=input(["kapil","sunil","divya","pawan"])
+print(x[1][::-1])
